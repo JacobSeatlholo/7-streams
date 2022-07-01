@@ -4,7 +4,7 @@
 
 <main>
 	<h1>Welcome to {name}!</h1>
-	<p>Visit this <a href="https://7streams.vercel.app/view1">website</a> to learn more about this app.</p>
+	<p>Visit this <a href="https://7-streams-abrb.vercel.app/">website</a> to learn more about this app.</p>
 </main>
 
 <style>
